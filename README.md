@@ -60,7 +60,7 @@ This project analyzes global, regional, and country-level population trends usin
 - Global Population & Socioeconomic Dashboard
    <img width="1408" height="787" alt="7" src="https://github.com/user-attachments/assets/9c627578-2016-4111-b080-f4cad5e7d4db" />
 - Country Demographic Dashboard
-    <img width="1404" height="783" alt="6" src="https://github.com/user-attachments/assets/4a358d01-1ff1-4954-a962-f1519ca2ca35" />
+    <img width="1399" height="780" alt="6" src="https://github.com/user-attachments/assets/876dce47-e29f-4cc0-a00b-cc8096501d0c" />
 - Data Model
 <img width="1000" height="748" alt="4" src="https://github.com/user-attachments/assets/fe8f2d98-ebfc-452c-85e8-b01b06f9e7e8" />
 <img width="1245" height="735" alt="5" src="https://github.com/user-attachments/assets/c3b096dd-d404-4cb3-876d-a31c583c1a51" />
